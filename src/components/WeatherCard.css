@@ -1,0 +1,16 @@
+.WeatherCard {
+    min-width: 250px;
+}
+
+.DateTime {
+    margin-bottom: 10px;
+}
+
+.CardRow {
+    display: flex;
+    justify-content: space-between;
+}
+
+.CardCow {
+    flex: 1;
+}
